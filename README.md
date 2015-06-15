@@ -1,4 +1,4 @@
-JavaPersistenceForDao
+DaoMock
 =====================
 Dao层持久化封装
 1.根据项目的PO实体，VO实体来生成对应属性的XML文件信息(配上对的主外键注解，表名注解)；
